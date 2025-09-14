@@ -9,12 +9,19 @@ There is direct support for creating planar CVPixelBuffers objects from  raw 420
 There is indirect support for 4:2:2 uyvy or 4:2:2: yuyv raw files. These 2 corresponds to 
  and kvImage422CbYpCrYp8 (2vuy)  and kvImage422YpCbYpCr8 (yuvs /yuvf) respectively.  But the raw data must be processed to produced data chunks of {Cb, Yp, Cr, Yp} or  {Yp, Cb, Yp, Cr} before the calling the function :
 
+```swift
+
     vImageConvert_422CbYpCrYp8ToARGB8888
-    
+
+ ```
+   
 or 
 
+```swift
+
     vImageConvert_422YpCbYpCr8ToARGB8888
-    
+
+ ```
 
 to decode the pixels in YpCbCr colour space to RGB colourspace. The demo **yuv422PlanarToARGBConversion** presumes the raw data will using the first function (2vuy). How to use the second function will be left as an exercise to the reader.
 
@@ -32,11 +39,19 @@ There are 5 tasks to be executed:
 
 Task (b) is performed by calling the following function:
 
+```swift
+
     vImageConvert_ARGB8888To422YpCbYpCr8
+
+ ```
 
 Tasks (c) and (d) will call the following function:
 
+```swift
+
     vImageConvert_ChunkyToPlanar8
+
+ ```
 
 There will be 3 planes of raw data encapsulated in 3 vImage_Buffer objects. The first plane, *yPlane*, consists of bytes of the luminance channel, *uPlane*, the bytes of the chrominance BLUE difference channel and *vPlane*, the  bytes of the chrominance RED difference channel. 
 
@@ -68,11 +83,19 @@ There are t tasks to be executed:
 
 Both tasks (b) and (c) are performed by executing the  following function:
 
+```swift
+
     vImageConvert_PlanarToChunky8
+
+ ```
 
 Task (d) is performed by  executing the  following function:
 
+```swift
+
     vImageConvert_422CbYpCrYp8ToARGB8888
+
+ ```
 
 A visual check is done by creating an instance of CGImage from the RGBA vImage_Buffer object
 
