@@ -100,3 +100,16 @@ Task (d) is performed by  executing the  following function:
 A visual check is done by creating an instance of CGImage from the RGBA vImage_Buffer object
 
 The code for the 2 playgrounds of **RBG_YUV444_Conversions** are simpler.
+
+
+Requirements:
+
+XCode 11.6 or later
+
+Weblinks:
+
+https://developer.apple.com/documentation/accelerate/vimageconvert_planartochunky8(_:_:_:_:_:_:_:_:)
+
+https://developer.apple.com/documentation/accelerate/vimageconvert_chunkytoplanar8(_:_:_:_:_:_:_:_:)
+
+
