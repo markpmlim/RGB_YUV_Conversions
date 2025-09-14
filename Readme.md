@@ -102,11 +102,11 @@ A visual check is done by creating an instance of CGImage from the RGBA vImage_B
 The code for the 2 playgrounds of **RBG_YUV444_Conversions** are simpler.
 
 
-Requirements:
+**Requirements:**
 
 XCode 11.6 or later
 
-Weblinks:
+**Weblinks:**
 
 https://developer.apple.com/documentation/accelerate/vimageconvert_planartochunky8(_:_:_:_:_:_:_:_:)
 
