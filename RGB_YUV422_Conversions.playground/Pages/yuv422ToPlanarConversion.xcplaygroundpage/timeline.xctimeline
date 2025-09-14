@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Timeline
+   version = "3.0">
+   <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/marklim/Desktop/RGB_YUV_Conversions/RGB_YUV422_Conversions.playground/Pages/yuv422ToPlanarConversion.xcplaygroundpage#CharacterRangeLen=12076&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=343&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=779446109.77336"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/marklim/Desktop/RGB_YUV_Conversions/RGB_YUV422_Conversions.playground/Pages/yuv422ToPlanarConversion.xcplaygroundpage#CharacterRangeLen=12076&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=343&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=779446109.773501"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/marklim/Desktop/RGB_YUV_Conversions/RGB_YUV422_Conversions.playground/Pages/yuv422ToPlanarConversion.xcplaygroundpage#CharacterRangeLen=12076&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=343&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=779446109.773622"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/marklim/Desktop/RGB_YUV_Conversions/RGB_YUV422_Conversions.playground/Pages/yuv422ToPlanarConversion.xcplaygroundpage#CharacterRangeLen=12076&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=343&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=779446109.7737401"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/marklim/Desktop/RGB_YUV_Conversions/RGB_YUV422_Conversions.playground/Pages/yuv422ToPlanarConversion.xcplaygroundpage#CharacterRangeLen=12076&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=343&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=779446109.773855"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/marklim/Desktop/RGB_YUV_Conversions/RGB_YUV422_Conversions.playground/Pages/yuv422ToPlanarConversion.xcplaygroundpage#CharacterRangeLen=12076&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=343&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=779446109.773971"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/marklim/Desktop/RGB_YUV_Conversions/RGB_YUV422_Conversions.playground/Pages/yuv422ToPlanarConversion.xcplaygroundpage#CharacterRangeLen=12076&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=343&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=779446109.774083"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/marklim/Desktop/RGB_YUV_Conversions/RGB_YUV422_Conversions.playground/Pages/yuv422ToPlanarConversion.xcplaygroundpage#CharacterRangeLen=12076&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=343&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=779446109.774193"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/marklim/Desktop/RGB_YUV_Conversions/RGB_YUV422_Conversions.playground/Pages/yuv422ToPlanarConversion.xcplaygroundpage#CharacterRangeLen=12076&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=343&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=779446109.774307"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/marklim/Desktop/RGB_YUV_Conversions/RGB_YUV422_Conversions.playground/Pages/yuv422ToPlanarConversion.xcplaygroundpage#CharacterRangeLen=12076&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=343&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=779446109.774418"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/marklim/Desktop/RGB_YUV_Conversions/RGB_YUV422_Conversions.playground/Pages/yuv422ToPlanarConversion.xcplaygroundpage#CharacterRangeLen=12076&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=343&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=779446109.774529"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/marklim/Desktop/RGB_YUV_Conversions/RGB_YUV422_Conversions.playground/Pages/yuv422ToPlanarConversion.xcplaygroundpage#CharacterRangeLen=12076&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=343&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=779446109.774639"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/marklim/Desktop/RGB_YUV_Conversions/RGB_YUV422_Conversions.playground/Pages/yuv422ToPlanarConversion.xcplaygroundpage#CharacterRangeLen=7&amp;CharacterRangeLoc=6947&amp;EndingColumnNumber=12&amp;EndingLineNumber=199&amp;StartingColumnNumber=5&amp;StartingLineNumber=199&amp;Timestamp=779446109.7747509"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/marklim/Desktop/RGB_YUV_Conversions/RGB_YUV422_Conversions.playground/Pages/yuv422ToPlanarConversion.xcplaygroundpage#CharacterRangeLen=14&amp;CharacterRangeLoc=9440&amp;EndingColumnNumber=19&amp;EndingLineNumber=274&amp;StartingColumnNumber=5&amp;StartingLineNumber=274&amp;Timestamp=779446109.774864"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/marklim/Desktop/RGB_YUV_Conversions/RGB_YUV422_Conversions.playground/Pages/yuv422ToPlanarConversion.xcplaygroundpage#CharacterRangeLen=7&amp;CharacterRangeLoc=9518&amp;EndingColumnNumber=12&amp;EndingLineNumber=275&amp;StartingColumnNumber=5&amp;StartingLineNumber=275&amp;Timestamp=779446109.7749749"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/marklim/Desktop/RGB_YUV_Conversions/RGB_YUV422_Conversions.playground/Pages/yuv422ToPlanarConversion.xcplaygroundpage#CharacterRangeLen=7&amp;CharacterRangeLoc=9590&amp;EndingColumnNumber=12&amp;EndingLineNumber=276&amp;StartingColumnNumber=5&amp;StartingLineNumber=276&amp;Timestamp=779446109.775088"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+   </TimelineItems>
+</Timeline>
